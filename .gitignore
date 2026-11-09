@@ -3,6 +3,5 @@
 .venv/
 venv/
 *.csv
-*.png
-!docs/*.png
 .DS_Store
+Thumbs.db
